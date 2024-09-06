@@ -38,8 +38,8 @@ To run this container correctly, your host system should have the following dire
 - **`configs/gdrive/download_list.txt`**: This file contains the IDs of the Google Drive files or directories you want to download. Each line should contain a single ID, for example:
 
   ```
-  dir 1A2B3C4D5E6F7G8H9I0J /data
-  file 2Z3X4C5V6B7N8M9L0P1Q /data/project/documents
+  dir:1A2B3C4D5E6F7G8H9I0J:/data
+  file:2Z3X4C5V6B7N8M9L0P1Q:/data/project/documents
   ```
 
 - **`data/`**: Directory where the downloaded files will be stored by the container. Make sure this directory exists before running the container.
