@@ -96,7 +96,7 @@ docker run -it -v $(pwd)/configs:/configs -v $(pwd)/data:/data gdrive-downloader
 
 ## Contribution
 
-If you wish to contribute to this project, please open an issue or submit a pull request on [Zenodo](https://zenodo.org/records/13701085). Contributions to enhance the functionality or fix issues are always welcome.
+If you wish to contribute to this project, please open an issue or submit a pull request on [Zenodo](https://zenodo.org/records/13701085) and [GitHub](https://github.com/sheroldgarcia/gdrive-downloader). Contributions to enhance the functionality or fix issues are always welcome.
 
 ## License
 
